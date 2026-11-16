@@ -2,4 +2,6 @@
 Name = "Stanely"
 age = 29
 print(Name)
-print (age)
+if age >= 18:
+    print(age)
+
